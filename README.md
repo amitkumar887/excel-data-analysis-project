@@ -127,6 +127,6 @@ This repository is part of my learning journey toward becoming a Data Analyst. I
 
 ## 👨‍💻 Author
 
-## Ravi Ram
+## Amit Kumar Thakur
 
 Aspiring Data Analyst passionate about dashboards, business insights, and data visualization using Excel.
